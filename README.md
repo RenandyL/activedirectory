@@ -1,1 +1,1 @@
-# configure-ad
+# creating users w PS
