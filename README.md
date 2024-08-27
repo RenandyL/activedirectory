@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the creation of an Organizational Unit, adding users to a group, and creating new users within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -49,7 +49,7 @@ Add a user to a group.
 <br />
 
 <p>
-Create new users using PowerShell script.
+Create new users using the PowerShell script.
 </p>
 <p>
 <img src="https://github.com/user-attachments/assets/e17d5697-82e5-4751-97a2-bd7661c41b92" height="80%" width="80%" alt="Disk Sanitization Steps"/>
